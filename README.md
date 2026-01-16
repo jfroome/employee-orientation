@@ -73,7 +73,7 @@ This application is available for custom deployment tailored to your organizatio
 
 **Deployment & Hosting** - Full deployment support on your preferred cloud infrastructure
 
-For custom implementations, deployment assistance, or integration inquiries, contact us at jfroome88@gmail.com.
+For custom implementations, deployment assistance, or integration inquiries, contact me at jfroome88@gmail.com.
 
 ## Repository Notes
 
