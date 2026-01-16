@@ -1,0 +1,37 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <!-- Gradient for the circle -->
+    <linearGradient id="sageGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6ba87c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a7a5f;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Radial gradient for depth -->
+    <radialGradient id="depthGradient" cx="35%" cy="35%">
+      <stop offset="0%" style="stop-color:#7ab68b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a7a5f;stop-opacity:1" />
+    </radialGradient>
+    
+    <!-- Text gradient -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f0f5f3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Shadow circle for depth -->
+  <circle cx="50" cy="50" r="48" fill="url(#depthGradient)" opacity="0.9"/>
+  
+  <!-- Main background circle with gradient -->
+  <circle cx="50" cy="50" r="45" fill="url(#sageGradient)"/>
+  
+  <!-- Highlight circle for shine effect -->
+  <circle cx="35" cy="35" r="20" fill="#ffffff" opacity="0.15"/>
+  
+  <!-- Border circle -->
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.5"/>
+  
+  <!-- "Your Company" Text with gradient -->
+  <text x="50" y="48" font-family="'Segoe UI', 'Helvetica Neue', sans-serif" font-size="11" font-weight="600" text-anchor="middle" fill="url(#textGradient)" letter-spacing="0.5">YOUR</text>
+  <text x="50" y="62" font-family="'Segoe UI', 'Helvetica Neue', sans-serif" font-size="11" font-weight="600" text-anchor="middle" fill="url(#textGradient)" letter-spacing="0.5">COMPANY</text>
+</svg>
