@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c51f01ca-30af-4f45-ab53-a98ce33509fc/deploy-status)](https://app.netlify.com/projects/employee-orientation/deploys)
 
-# Employee Orientation Application
+**Live Demo**: [https://employee-orientation.netlify.app/login](https://employee-orientation.netlify.app/login)
 
 A comprehensive web-based employee orientation solution that streamlines the orientation process for organizations of all sizes. This full-stack application guides new employees through a structured, multi-step orientation workflow covering employment information, benefits enrollment, legal agreements, and document management. 
 
