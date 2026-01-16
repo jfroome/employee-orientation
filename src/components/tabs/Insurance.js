@@ -52,7 +52,7 @@ export default function Insurance({ nextTab }) {
                 />
                 <p><strong><span style={{ color: 'DodgerBlue', fontSize: '24px' }}>Insurance</span></strong> provides <span style={{ color: 'red' }}>CASH BENEFITS </span>directly to you when you need them most!!<br />
                   Listed below are some of the benefits Insurance provides.
-                  If you're interested in Insurance, <br />our friendly agent will contact you to discuss your options in detail.</p>
+                  {"If you're interested in Insurance, "}<br />our friendly agent Don Clay will contact you to discuss your options in detail.</p>
 
                 <p><b>ACCIDENT</b> – Pays a minimum $120 for Accident Visit – most frequently used policy – GREAT for kids! </p>
                 <p><b>DISABILITY</b> – Pays if you can’t work due to injury, sickness or maternity (Very important in WA & OR)  </p>

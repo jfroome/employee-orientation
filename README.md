@@ -1,16 +1,16 @@
 # Employee Orientation Application
 
-A comprehensive web-based employee onboarding solution that streamlines the orientation process for organizations of all sizes. This full-stack application guides new employees through a structured, multi-step onboarding workflow covering employment information, benefits enrollment, legal agreements, and document management.
+A comprehensive web-based employee orientation solution that streamlines the orientation process for organizations of all sizes. This full-stack application guides new employees through a structured, multi-step orientation workflow covering employment information, benefits enrollment, legal agreements, and document management. 
 
 ## Overview
 
-This platform provides a complete end-to-end onboarding experience designed to improve operational efficiency and ensure compliance with organizational policies. The application features a guided wizard-style interface with sequential form sections, automated data persistence, secure authentication, and seamless integration capabilities.
+This platform provides a complete end-to-end orientation experience designed to improve operational efficiency and ensure compliance with organizational policies. The application features a guided wizard-style interface with sequential form sections, automated data persistence, secure authentication, and seamless integration capabilities.
 
 The application demonstrates modern full-stack development practices and is production-ready for enterprise deployments.
 
 ## Core Features
 
-- **Multi-Step Onboarding Workflow** - Sequential guided experience across 13+ configurable sections
+- **Multi-Step Orientation Workflow** - Sequential guided experience across 13+ configurable sections
 - **Data Persistence & Auto-Save** - Automatic form data saving and retrieval
 - **Secure Authentication** - Enterprise-grade user authentication and session management
 - **Comprehensive Data Collection** - Personal information, employment eligibility, benefits enrollment, and tax withholding
@@ -37,7 +37,7 @@ The application demonstrates modern full-stack development practices and is prod
 
 **Styling**: Material-UI, CSS Modules, Emotion CSS-in-JS
 
-## Onboarding Sections
+## Orientation Sections
 
 The application guides employees through the following configurable sections:
 
@@ -53,7 +53,9 @@ The application guides employees through the following configurable sections:
 10. Tax Withholding - W-4 information
 11. Orientation Videos - Video completion tracking
 12. Legal Agreements - Policy acknowledgment and deductions
-13. Final Submission - Review and onboarding completion
+13. Final Submission - Review and orientation completion
+
+These sections can be entirely removed, have new ones created, customized or changed to reflect the needs of your company.
 
 ## Professional Services & Customization
 
@@ -61,13 +63,13 @@ This application is available for custom deployment tailored to your organizatio
 
 **White-Label Implementation** - Custom branding, logos, colors, and company-specific content
 
-**Workflow Customization** - Add, remove, or reconfigure onboarding sections to match your processes
+**Workflow Customization** - Add, remove, or reconfigure orientation sections to match your processes
 
 **Third-Party Integration** - Connect to your existing HR systems, payroll platforms, and databases
 
 **Document Management** - Configure required documents, file types, and storage solutions
 
-**Compliance Configuration** - Customize legal agreements and policy acknowledgments for your jurisdiction
+**Security & Compliance Configuration** - Customize legal agreements and policy acknowledgments for your jurisdiction
 
 **Authentication Integration** - SSO integration with your existing directory services
 
@@ -78,44 +80,6 @@ For custom implementations, deployment assistance, or integration inquiries, con
 ## Repository Notes
 
 This repository was reset to remove all commit history and ensure client confidentiality. All company-specific information, branding, and proprietary content has been removed or replaced with generic placeholders to preserve confidentiality while demonstrating the application's capabilities.
-
-## API Architecture
-
-The application includes RESTful API endpoints for:
-
-**Employee Data Management**
-- Personal information, drug testing, health benefits, insurance, direct deposit, emergency contacts, ethnicity data, employment eligibility, driving record authorization, tax withholding, video completion, legal agreements
-
-**File Operations**
-- Signature uploads, identity document storage, certification uploads
-
-**Authentication**
-- Secure session management and user authentication
-
-**System Operations**
-- Onboarding completion, finalization, and reporting
-
-## Technical Implementation
-
-**Component Architecture**: Reusable atomic components for form inputs, controls, and displays; composed into feature-rich tab sections
-
-**State Management**: React Hook Form for efficient form handling and validation
-
-**Data Flow**: Authenticated requests with automatic data persistence and retrieval
-
-**Error Handling**: Comprehensive validation, error recovery, and user-friendly notifications
-
-**Performance**: Optimized rendering with uncontrolled components and async data loading
-
-## Professional Capabilities Demonstrated
-
-- Full-stack application development with modern frameworks
-- Scalable component architecture and design systems
-- Enterprise authentication and security patterns
-- RESTful API design and integration
-- Form management and validation at scale
-- Responsive, accessible user interface design
-- Production-ready code organization and best practices
 
 ## License
 

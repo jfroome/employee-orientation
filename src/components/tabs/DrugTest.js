@@ -77,7 +77,7 @@ export default function DrugTest({ nextTab }) {
             </Grid>
             <Grid item xs={12}>
               <h4>Controlled Substance Test Notification </h4>
-              Pre-employment drug testing is an essential component of the hiring process, ensuring a safe and productive work environment. Candidates are required to undergo a drug screening as part of their onboarding process. The drug test will be administered on the date of your orientation. This notice serves as notification pursuant to Part 382 of the Federal Motor Carrier Safety Administration (FMCSA) regulations regarding controlled substances and alcohol testing.  <p> </p>
+              Pre-employment drug testing is an essential component of the hiring process, ensuring a safe and productive work environment. Candidates are required to undergo a drug screening as part of their orientation process. The drug test will be administered on the date of your orientation. This notice serves as notification pursuant to Part 382 of the Federal Motor Carrier Safety Administration (FMCSA) regulations regarding controlled substances and alcohol testing.  <p> </p>
              
               Reason for the Test: <p><h4>Pre - Employment </h4></p>
               DOT or Non-DOT: <p><h4>

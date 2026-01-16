@@ -46,7 +46,7 @@ export default function Legal({ nextTab }) {
                             Communication Program.<br /><br />
                             I have also received a company employee handbook, educational materials that explain the
                             requirements of the Department of Transportation Drug and Alcohol Rules and Regulations as
-                            well as the company's Drug and Alcohol Policy and Procedures with respect to meeting those
+                            well as the {"company's Drug and Alcohol"} Policy and Procedures with respect to meeting those
                             requirements.<br /><br />
                             I understand the Company reserves all rights necessary to the efficient and orderly
                             management of their business. The Handbook is intended to be a guideline to its practices, not

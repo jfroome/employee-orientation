@@ -85,15 +85,3 @@ describe('DecodeCoverage', () => {
 
   });
 });
-
-// describe('MapBenefitSelection', () => {
-//   it('should return the corresponding coverage selection for a given value', () => {
-//     assert.strictEqual(MapBenefitSelection('1'), '👷🏼‍♂️ - Employee Only');
-//     assert.strictEqual(MapBenefitSelection('2'), '👷🏼‍♂️🧍🏼‍♀️ - Employee + Child(ren)');
-//     assert.strictEqual(MapBenefitSelection('3'), '👷🏼‍♂️👱🏼‍♀️ - Employee + Spouse');
-//   });
-
-//   it('should return a default value if the given value is not found in the mapping', () => {
-//     assert.strictEqual(MapBenefitSelection('0'), '👷🏼‍♂️ - Employee Only');
-//   });
-// });

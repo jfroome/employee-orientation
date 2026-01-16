@@ -99,7 +99,7 @@ export default function Form({ }) {
                   />
                 </Grid>
                 <Grid item md={10}>
-                  <Typography variant='h5'>EMPLOYEE ONBOARDING</Typography>
+                  <Typography variant='h5'>EMPLOYEE ORIENTATION</Typography>
                 </Grid>
                 <Grid item md={1}>
                   <Button type='button'

@@ -70,7 +70,7 @@ export default function Submit({ logout }) {
                         <TabTitle title={'Submit'} />
                     </Grid>
                     <FormDivider title={'Completed Tabs'} />
-                    { submittable ?<Alert severity={'success'}>All tabs have been filled and you are now able to finalize your onboarding.</Alert> : <Alert severity={'warning'}>You must complete all tabs before finalizing your onboarding.</Alert>}
+                    { submittable ?<Alert severity={'success'}>All tabs have been filled and you are now able to finalize your orientation.</Alert> : <Alert severity={'warning'}>You must complete all tabs before finalizing your orientation.</Alert>}
                     <Grid item xs={6}>
                         <FormControlLabel
                             control={<Checkbox defaultChecked={nullEmptyUndefinedCheck(getValues(DateSigned))} required={true} />}
@@ -145,7 +145,7 @@ export default function Submit({ logout }) {
                         <Typography variant={'body1'}>
                             <strong>Caution</strong>:
                             After clicking finalize below
-                            you will not be able to login and change your onboarding details. <br />
+                            you will not be able to login and change your orientation details. <br />
                             Please be sure that you are ready to submit.
                         </Typography>
                     </Grid>
