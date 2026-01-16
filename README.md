@@ -2,6 +2,10 @@
 
 **Live Demo**: [https://employee-orientation.netlify.app/login](https://employee-orientation.netlify.app/login)
 
+**Test Login Credentials**:
+- Email: `test@example.com`
+- Password: `password`
+
 A comprehensive web-based employee orientation solution that streamlines the orientation process for organizations of all sizes. This full-stack application guides new employees through a structured, multi-step orientation workflow covering employment information, benefits enrollment, legal agreements, and document management. 
 
 ## Overview
@@ -45,17 +49,16 @@ The application guides employees through the following configurable sections:
 
 1. Personal Information - Demographics, contact details, driver's license
 2. Drug Test - Verification and scheduling
-3. Health Benefits - Medical, dental, and vision plan selection
-4. Insurance Programs - Voluntary benefit program enrollment
+3. Health Benefit Enrollment - Medical, dental, and vision plan selection
+4. Insurance - Voluntary benefit program enrollment
 5. Direct Deposit - Bank account and check information
-6. Emergency Contacts - Emergency contact details
-7. Ethnicity Information - EEO data collection
-8. Employment Eligibility - Work authorization verification
-9. Driving Record - Background check authorization
-10. Tax Withholding - W-4 information
-11. Orientation Videos - Video completion tracking
-12. Legal Agreements - Policy acknowledgment and deductions
-13. Final Submission - Review and orientation completion
+6. Emergency Contact Info - Emergency contact details
+7. Employee Eligibility - Work authorization verification
+8. Driving Record - Background check authorization
+9. Witholding - W-4 tax withholding information
+10. Videos - Orientation video completion tracking
+11. Legal - Policy acknowledgment and deductions
+12. Submit - Final review and orientation completion
 
 These sections can be entirely removed, have new ones created, customized or changed to reflect the needs of your company.
 

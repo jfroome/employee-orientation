@@ -9,7 +9,7 @@ export default NextAuth({
             async authorize(credentials) {
                 // Mock test user
                 if (credentials.email.toLowerCase() === "test@example.com") {
-                    if (credentials.password === "USE6789") {
+                    if (credentials.password === "password") {
                         return {
                             user: {
                                 [Id]: "test-id",
