@@ -86,12 +86,8 @@ For custom implementations, deployment assistance, or integration inquiries, con
 
 This repository was reset to remove all commit history and ensure client confidentiality. All company-specific information, branding, and proprietary content has been removed or replaced with generic placeholders to preserve confidentiality while demonstrating the application's capabilities.
 
-## License
+## Buy me a coffee
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+If you find this tool helpful, please consider buying me a coffee!
 
-The MIT License permits commercial and private use, modification, and distribution, provided that the original copyright and license notice are included.
-
----
-
-Last Updated: January 2026
+<a href="https://www.buymeacoffee.com/jfroome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
