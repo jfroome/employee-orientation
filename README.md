@@ -6,13 +6,11 @@
 - Email: `test@example.com`
 - Password: `password`
 
-A comprehensive web-based employee orientation solution that streamlines the orientation process for organizations of all sizes. This full-stack application guides new employees through a structured, multi-step orientation workflow covering employment information, benefits enrollment, legal agreements, and document management. 
+A web application for collecting information for new employees of an organization. Prepopulates the forms with their existing data. Fully customizeable pages. Forms built with the easy to use React-hook-form. Designed to integrate with a pre-existing database api with minimal changes to the repository layer. 
 
 ## Overview
 
-This platform provides a complete end-to-end orientation experience designed to improve operational efficiency and ensure compliance with organizational policies. The application features a guided wizard-style interface with sequential form sections, automated data persistence, secure authentication, and seamless integration capabilities.
-
-The application demonstrates modern full-stack development practices and is production-ready for enterprise deployments.
+This platform provides a complete end-to-end orientation experience designed to improve operational efficiency and ensure compliance with organizational policies. The application features a guided wizard-style interface with sequential form sections, secure authentication, and seamless integration capabilities.
 
 ## Core Features
 
@@ -42,6 +40,8 @@ The application demonstrates modern full-stack development practices and is prod
 **Database Integration**: REST API compatible with Ninox and other systems
 
 **Styling**: Material-UI, CSS Modules, Emotion CSS-in-JS
+
+**Database** In this example, the repository layer is hooked up to a Ninox database.
 
 ## Orientation Sections
 
